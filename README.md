@@ -28,13 +28,14 @@ npm run build
 quip-typescript-liveapp-template
 ├── package.json
 ├── node_modules
+├── tsconfig.json
 ├── webpack.config.js
 ├── app
 │   └── manifest.json
 └── src
     └── App.less
-    └── App.jsx
-    └── root.jsx
+    └── App.tsx
+    └── root.tsx
 ```
 
 ## Getting Started
